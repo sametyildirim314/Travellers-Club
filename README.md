@@ -11,14 +11,6 @@ Key features
 - Search and filter by region, activity, budget, and travel dates
 - Save favorite destinations and itineraries for quick access
 
-Demo
-
-If there is a live demo, put the URL here. Example:
-
-https://travellers-club.example.com
-
-If no demo is available yet, remove this section or replace with "No public demo yet".
-
 Tech stack
 
 - Frontend: React / Vue / Svelte (choose your framework)
@@ -61,34 +53,8 @@ Contributions are welcome! To contribute, please:
 4. Push to your branch (git push origin feat/my-feature)
 5. Open a Pull Request describing your changes
 
-Please follow the repository's code style and add tests where applicable.
 
-Testing
 
-- Run unit and integration tests with:
 
-  npm test
-  # or
-  yarn test
 
-Roadmap / TODO
 
-- Add authentication and user profiles
-- Implement full CRUD for itineraries and destinations
-- Add image upload and gallery support
-- Improve search and filtering
-- Add localization/internationalization
-
-License
-
-Specify the license used (e.g., MIT). Example:
-
-MIT © 2025 Your Name
-
-Contact
-
-For questions or collaboration, open an issue or contact the maintainer at: sametyildirim314
-
-Notes
-
-- Edit and customize this README to match the exact contents and tech choices of the project. Replace placeholder URLs and instructions with repo-specific details.
