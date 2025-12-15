@@ -2,7 +2,7 @@
 
 Travellers Club is a modern web application (and/or mobile-friendly) that helps travelers discover destinations, plan trips, share itineraries, and connect with fellow travelers. It focuses on ease-of-use, community-driven recommendations, and flexible trip planning tools.
 
-Key features
+Key Features:
 
 - Destination discovery with photos, descriptions, and highlights
 - Trip / itinerary creation and sharing
@@ -11,7 +11,7 @@ Key features
 - Search and filter by region, activity, budget, and travel dates
 - Save favorite destinations and itineraries for quick access
 
-Tech stack
+Tech Stack:
 
 - Frontend: React / Vue / Svelte (choose your framework)
 - Backend: Node.js + Express / Django / Flask / Laravel
