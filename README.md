@@ -1,6 +1,6 @@
 # Travellers Club
 
-Travellers Club is a modern web application (and/or mobile-friendly) that helps travelers discover destinations, plan trips, share itineraries, and connect with fellow travelers. It focuses on ease-of-use, community-driven recommendations, and flexible trip planning tools.
+
 
 Key Features:
 
