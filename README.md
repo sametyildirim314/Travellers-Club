@@ -37,11 +37,6 @@ Getting started (development)
 4. Create and configure environment variables
 
    - Copy .env.example to .env and update values (database, API keys, etc.)
-5. Run the development server
-
-   npm run dev
-   # or
-   yarn dev
 
 
 
